@@ -1,0 +1,15 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #adff2f;
+  font-family: 'Bebas Neue', sans-serif;
+}
+#projects {
+  background-color: greenyellow;
+  margin-bottom: 3;
+}
+section {
+  padding-top: -4rem;
+}
+section h1 {
+  margin-top: 5rem;
+}
